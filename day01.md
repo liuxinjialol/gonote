@@ -1,7 +1,7 @@
 变量的声明
 var stock,price int
 常量的声明
-const path string
+const height int
 
 iota，特殊常量，可以认为是一个可以被编译器修改的常量。
 iota 在 const关键字出现时将被重置为 0(const 内部的第一行之前)，
@@ -25,5 +25,5 @@ var name string = "tommy"
 (8) Map 类型
 
 
-运算符 &, |, 和 ^ 
+运算符 &, |, ^,<<,>> 
 
