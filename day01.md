@@ -24,6 +24,9 @@ var name string = "tommy"
 (7) 接口类型（interface）
 (8) Map 类型
 
-
 运算符 &, |, ^,<<,>> 
+
+指针运算符
+变量地址 &a
+指针变量 *a
 
