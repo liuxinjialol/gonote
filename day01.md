@@ -1,5 +1,7 @@
 变量的声明
 var stock,price int
+常量的声明
+const path string
 
 变量的类型
 布尔类型
